@@ -1,5 +1,6 @@
-name: AFKPlusPAPI
+name: DiamondBank-OG-PAPI
 version: ${version}
-main: net.lapismc.afkpluspapi.AFKPlusPAPI
+main: net.trueog.diamondbankogpapi.DiamondBankOGPAPI
 api-version: 1.19
 depend: [AFKPlus,PlaceholderAPI]
+author: NotAlexNoyle
